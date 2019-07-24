@@ -1,4 +1,7 @@
+osurhgosg
+
 # Declaring Variables:
+
 # e.g. x = 5, No syntax
 # Example for loop
 # for i in range (5)
