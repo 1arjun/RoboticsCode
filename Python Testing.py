@@ -1,3 +1,4 @@
+#Hey BOISSSSSSSSSSS
 # Declaring Variables:
 # e.g. x = 5, No syntax
 # Example for loop
