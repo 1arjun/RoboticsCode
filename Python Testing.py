@@ -2,9 +2,13 @@ osurhgosg
 
 # Declaring Variables:
 <<<<<<< HEAD
+<<<<<<< HEAD
 '''
 Sasuke has a small peen
 '''
+=======
+
+>>>>>>> 506d4003b153874d0ca46c654b2e36bc957f921a
 =======
 
 >>>>>>> 506d4003b153874d0ca46c654b2e36bc957f921a
