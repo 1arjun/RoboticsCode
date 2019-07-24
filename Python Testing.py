@@ -1,19 +1,4 @@
 # Declaring Variables:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-'''
-Sasuke has a small peen
-Chipotle is good
-'''
-=======
-
->>>>>>> 506d4003b153874d0ca46c654b2e36bc957f921a
-=======
-
->>>>>>> 506d4003b153874d0ca46c654b2e36bc957f921a
->>>>>>> 85bd58c7468c77b3560a926f05d26e1c477be414
 # e.g. x = 5, No syntax
 # Example for loop
 # for i in range (5)
