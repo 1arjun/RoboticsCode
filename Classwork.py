@@ -1,8 +1,9 @@
 from random import randint
 #HI
-x = input("Guess a number between 1 and 5")
+'''
+x = input("Guess a number between 1 and 50")
 x = int (x)
-y = randint (1,5)
+y = randint (1,50)
 print (y)
 correct = False
 if (x==y):
@@ -14,5 +15,10 @@ while (correct == False):
     if (x==y):
         correct = True
         print ("You win")
+    elif (x>y):
+        print ("Lower")
+    elif (x<y):
+        print ("Higher")
+'''
+               
     
-
