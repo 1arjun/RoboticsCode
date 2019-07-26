@@ -51,3 +51,15 @@ elif (x>3):
 else:
     print ("Lower")
 
+#Lists:
+#x = []
+# that is an emptly list
+# To add a number to a list:
+# x.append(5)
+# that adds 5 to the list x
+# To access an element in a list, use x[position of element]
+# Lists start at 0, so the first element is in position 0
+# to see how many values are in a list, use len(x)
+# to check if a number is in a list, use
+# value in x, it will give value true or false
+# x.pop() removes the last element in the list
